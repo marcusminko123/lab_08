@@ -1,7 +1,7 @@
 Lab 08 - Conveying the right message through visualisation
 ================
-Insert your name here
-Insert date here
+Marcus Minko
+02-23-2022
 
 ### Load packages and data
 
